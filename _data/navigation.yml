@@ -1,11 +1,14 @@
-- title: home
+- title: Services
   url: /
 
-- title: tags
-  url: /tags
+- title: Blog
+  url: /blog
 
-- title: about
+#- title: Tags
+#  url: /tags
+
+- title: About
   url: /me
 
-- title: github
-  url: https://github.com/pocteo
+#- title: Github
+#  url: https://github.com/pocteo
